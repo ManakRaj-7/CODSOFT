@@ -1,0 +1,1 @@
+This repository contains five tasks assigned to me as a virtual intern for 'Java Programming' at an organization named 'CodSoft'.

@@ -1,3 +1,5 @@
+package TASK1_NUMBER_GUESSING_GAME;
+
 import java.util.Random;
 import java.util.Scanner;
 

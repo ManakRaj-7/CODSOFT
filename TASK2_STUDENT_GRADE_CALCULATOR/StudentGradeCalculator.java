@@ -1,3 +1,5 @@
+package TASK2_STUDENT_GRADE_CALCULATOR;
+
 import java.util.Scanner;
 import java.lang.String;
 
